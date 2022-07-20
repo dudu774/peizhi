@@ -2,7 +2,7 @@
 //  clan://TVBox/qj0718/qj0718.json
 {
 // spider
-"spider":"clan://TVBox/qj0718/qj718_spider.jar",
+"spider":"https://github.com/dudu774/peizhi/blob/9ea84e3f0f960f543ec1861aa79a04b42ab45c2d/qj718_spider.jar",
 
 // 直播
 //clan://TVBox/qj0718/live.txt
