@@ -1,5 +1,5 @@
 {
-  "spider": "https://raw.nite07.com/bl/custom_spider.jar",
+  "spider": "https://github.com/dudu774/peizhi/blob/main/custom_spider.jar",
   "sites": [
     {
       "key": "快看",
