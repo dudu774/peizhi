@@ -1,7 +1,5 @@
-// 配置地址 --> clan://localhost/TVBox/qj0718/qj0718.json
-//  clan://TVBox/qj0718/qj0718.json
+
 {
-// spider
 "spider":"https://github.com/dudu774/peizhi/blob/9ea84e3f0f960f543ec1861aa79a04b42ab45c2d/qj718_spider.jar",
 
 // 直播
